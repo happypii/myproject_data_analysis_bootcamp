@@ -1,5 +1,6 @@
 
-  #variables
+#Rock Paper Scissors  
+#Replit
   
   win <- 0
   lose <- 0
