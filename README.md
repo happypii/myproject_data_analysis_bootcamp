@@ -3,7 +3,6 @@
 ✨ Data Science projects with Datarockie ✨
 
 Duration: 4 months (August - November 2022)
-
 Lessons: 10 sprints
 
 - Spreadsheets
